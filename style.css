@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: rgb(249, 235, 210);
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.span {
+  color: rgb(255, 175, 27);
+}
+
+.myClass {
+  background-color: rgb(249, 235, 210);
+}
