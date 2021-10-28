@@ -19,3 +19,13 @@
 .myClass {
   background-color: rgb(249, 235, 210);
 }
+
+.bg-signup {
+  background-color: rgb(54, 54, 94);
+  height: 40vh;
+  display: flex;
+  align-items: center;
+}
+.btn {
+  background-color: rgb(54, 54, 94);
+}
