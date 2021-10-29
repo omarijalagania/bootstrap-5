@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  outline: none;
 }
 
 .header {
@@ -12,6 +13,10 @@
   align-items: center;
 }
 
+.active {
+  color: orange;
+}
+
 .span {
   color: rgb(255, 175, 27);
 }
@@ -20,9 +25,20 @@
   background-color: rgb(249, 235, 210);
 }
 
+#carousel {
+  height: 70vh;
+  display: flex;
+  align-items: center;
+}
+
+.h1title {
+  width: 60%;
+  margin: 0 auto;
+}
+
 .bg-signup {
   background-color: rgb(54, 54, 94);
-  height: 40vh;
+  height: 50vh;
   display: flex;
   align-items: center;
 }
